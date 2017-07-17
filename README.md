@@ -1,0 +1,5 @@
+# webpack_learn
+用webpack搭建的一个项目demo
+很久就开始想学习webpack
+看再读别人的项目还不如自己开始动手搭一个项目
+实践出真知
